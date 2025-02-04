@@ -1,0 +1,5 @@
+Correcion sprint 4 nivel 1
+
+ejercicio 2: 
+
+La agrupación en este caso no era necesaria que te solo era un iban, aconsejable para la lectura del código no agrupar por 1,2 agrupar por el nombre para que los demás puedan leer mejor el código 
